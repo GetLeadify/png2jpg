@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://png-to-jpg-converter.com/sitemap.xml
